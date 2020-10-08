@@ -15,10 +15,10 @@ We are interested to start something new – in a view of the COVID-19 problem, 
 If this concept is interesting for you – please write directly to [Alex Liberzon](https://web2.eng.tau.ac.il/wtest/alexlib/?p=1421) directly with your CV and the desired research topic.
 
 Present data cases and ideas open for the discussion:
-1. Solid particles crossing turbulent/non-turbulent interfaces in two stratified liquid layers http://web2.eng.tau.ac.il/wtest/alexlib/?p=1002
-2. Solid particles impacting on the half-spherical cavity in high Reynolds turbulence air flow http://web2.eng.tau.ac.il/wtest/alexlib/?p=1056
-3. Development of a serverless PIV method – pay for your PIV analysis at lighting speed on the AWS or GCP https://github.com/OpenPIV/serverless_OpenPIV
-4. Bridge 3D-PTV with the DIC methods to obtain mechanical stress on the living biological tissue of macroalgae http://web2.eng.tau.ac.il/wtest/alexlib/?p=1079
+1. Solid particles crossing turbulent/non-turbulent interfaces in two stratified liquid layers e.g. [link](http://web2.eng.tau.ac.il/wtest/alexlib/?p=1002)
+2. Solid particles impacting on the half-spherical cavity in high Reynolds turbulence air flow [link](http://web2.eng.tau.ac.il/wtest/alexlib/?p=1056)
+3. Development of a serverless PIV method – pay for your PIV analysis at lighting speed on the AWS or GCP [link](https://github.com/OpenPIV/serverless_OpenPIV)
+4. Bridge 3D-PTV with the DIC methods to obtain mechanical stress on the living biological tissue of macroalgae [link](http://web2.eng.tau.ac.il/wtest/alexlib/?p=1079)
 5. Use OpenPIV in the cloud (either Google Cloud, AWS, Azure, AWS Lambda) to run the tests for the WASHSTREET experiment (see also here and here and the paper with similar results is here ) or use the pre-validated dataset from https://www.researchgate.net/publication/342788643_Towards_harmonisation_of_image_velocimetry_techniques_for_river_surface_velocity_observations (30.6 Gb) and compare to the existing works.
 6. Develop Stereoscopic and 3D PIV versions for OpenPIV, bridging between OpenPTV and OpenPIV, Read more [here ...](./stereo_3d_piv/)
 7. Develop a module for preprocessing, PIV, post-processing and analysis of jets, aiming at quantification of key parameters from experimental data: entrainment rates, diffusivity, spreading angle, self-similarity (planar or axisymmetric jets), etc. Read more [here ...](./jet/)
