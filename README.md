@@ -4,8 +4,9 @@ First published on our lab website - https://web2.eng.tau.ac.il/wtest/alexlib/?p
 
 New idea: remote open science (no tuition, no payment) positions
 
-We are interested to start something new – in a view of the COVID-19 problem, many international and local candidates cannot participate in the experimental research, but would like to get the training and knowledge on the major parts of experimental fluid mechanics. We are offering new open science positions to the interested candidates:
+We are interested to start something new – in a view of the COVID-19 problem, many international and local candidates cannot participate in the experimental research, but would like to get the training and knowledge on the major parts of experimental fluid mechanics. We are offering these remote open science positions to the interested candidates.
 
+## Conditions
 
 - *We provide* remote training on the experiment, tools and procedures using video conferencing, online lectures, reading assignments, programming exercises and remote participation
 - *We provide* the real data collected in one of the experiments
@@ -14,7 +15,9 @@ We are interested to start something new – in a view of the COVID-19 problem, 
 
 If this concept is interesting for you – please write directly to [Alex Liberzon](https://web2.eng.tau.ac.il/wtest/alexlib/?p=1421) directly with your CV and the desired research topic.
 
-Example data cases and ideas open for the discussion:
+
+
+## Example data cases and ideas (open for discussion)
 
 1. Solid particles crossing turbulent/non-turbulent interfaces in two stratified liquid layers e.g. [link](http://web2.eng.tau.ac.il/wtest/alexlib/?p=1002)
 2. Solid particles impacting on the half-spherical cavity in high Reynolds turbulence air flow [link](http://web2.eng.tau.ac.il/wtest/alexlib/?p=1056)
