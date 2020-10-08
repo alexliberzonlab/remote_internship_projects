@@ -14,7 +14,8 @@ We are interested to start something new – in a view of the COVID-19 problem, 
 
 If this concept is interesting for you – please write directly to [Alex Liberzon](https://web2.eng.tau.ac.il/wtest/alexlib/?p=1421) directly with your CV and the desired research topic.
 
-Present data cases and ideas open for the discussion:
+Example data cases and ideas open for the discussion:
+
 1. Solid particles crossing turbulent/non-turbulent interfaces in two stratified liquid layers e.g. [link](http://web2.eng.tau.ac.il/wtest/alexlib/?p=1002)
 2. Solid particles impacting on the half-spherical cavity in high Reynolds turbulence air flow [link](http://web2.eng.tau.ac.il/wtest/alexlib/?p=1056)
 3. Development of a serverless PIV method – pay for your PIV analysis at lighting speed on the AWS or GCP [link](https://github.com/OpenPIV/serverless_OpenPIV)
