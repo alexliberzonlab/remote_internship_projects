@@ -5,7 +5,7 @@
 1. https://github.com/alexlib/3d-ptv-jet-flow
 2. https://github.com/alexlib/2D_jet_example
 
-There are numerous open databases and examples of jet flows with PIV, e..g PIV Challenge. It's also possible to create a synthetic or real experiment for the sake of this study. 
+There are numerous open databases and examples of jet flows with PIV, e..g PIV Challenge. It's also possible to create a synthetic or real experiment for the sake of this study. For instance this one : http://piv.de/uncertainty/?page_id=44
 
 ## What do we need to do:
 1. Preprocess PIV images using local tracer particle density to distinguish between the jet flow and the surrounding (not yet entrained) fluid (add image here)
