@@ -13,5 +13,11 @@ There are numerous open databases and examples of jet flows with PIV, e..g PIV C
 3. Analyse jet in two modes: 
   - self-similarity: average velocity along a centerline, profiles of velocity at different distances from the nozzle, normalization with the nozzle, jet width (see 1) as a function of distance, see Pope (Turbulent flows), Tennekes and Lumley (A first course on turbulence), White (Viscous flows), Boundary layer flows (Schlichting) - all the chapters about planar (2D) or axisymmetric, round (also 2D but in a different sense) jets. 
   - entrainment at the edge of the jet and conditional analysis as a function of distance from the interface (see Westerweel work on jets and TNTI)
+  
+  
+ ## The final report should be something like 
+ 
+ https://ntrs.nasa.gov/citations/20110023688
+ 
 
 
